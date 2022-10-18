@@ -1,0 +1,27 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: rime-pinyin-simp
+Source: https://github.com/rime/rime-pinyin-simp
+
+Files: *
+Copyright:
+ GONG Chen <chen.sst@gmail.com>
+License: Apache-2.0
+Comment:
+ Gong Chen <chen.sst@gmail.com> : (Apache License version 2.0)
+   pinyin_simp.schema.yaml
+ .
+ Derived from Android Pinyin IME : (Apache License version 2.0)
+   pinyin_simp.dict.yaml
+
+Files: debian/*
+Copyright:
+ 2021, Boyuan Yang <byang@debian.org>
+License: CC0-1.0
+
+License: CC0-1.0
+ On Debian systems, the complete text of the Creative Commons Zero v1.0
+ Universal License can be found in "/usr/share/common-licenses/CC0-1.0".
+
+License: Apache-2.0
+  On Debian systems, the complete text of the Apache License version 2.0
+  can be found in "/usr/share/common-licenses/Apache-2.0".

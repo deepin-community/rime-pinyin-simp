@@ -1,0 +1,3 @@
+build/pinyin_simp* usr/share/rime-data/build/
+pinyin_simp.dict.yaml usr/share/rime-data/
+pinyin_simp.schema.yaml /usr/share/rime-data/

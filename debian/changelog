@@ -1,0 +1,23 @@
+rime-pinyin-simp (0.0~git20210627.b0e84cd-3) UNRELEASED; urgency=medium
+
+  * update
+
+ -- Debian Input Method Team <debian-input-method@lists.debian.org>  Fri, 22 Apr 2022 19:33:16 +0800
+
+rime-pinyin-simp (0.0~git20210627.b0e84cd-3) unstable; urgency=high
+
+  * Fix incorrect binary package type: arch:all -> arch:any.
+
+ -- Boyuan Yang <byang@debian.org>  Tue, 15 Feb 2022 15:50:45 -0500
+
+rime-pinyin-simp (0.0~git20210627.b0e84cd-2) unstable; urgency=medium
+
+  * Source-only upload. 
+
+ -- Boyuan Yang <byang@debian.org>  Wed, 09 Feb 2022 19:41:32 -0500
+
+rime-pinyin-simp (0.0~git20210627.b0e84cd-1) unstable; urgency=medium
+
+  * Initial upload. (Closes: #1001925)
+
+ -- Boyuan Yang <byang@debian.org>  Sat, 18 Dec 2021 21:36:20 -0500
